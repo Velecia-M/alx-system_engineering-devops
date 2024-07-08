@@ -1,4 +1,4 @@
 Host web-01
-    HostName 54.236.230.29
-    Port 22
-    User ubuntu
+	HostName 54.236.230.29
+	Port     22
+	User     ubuntu
